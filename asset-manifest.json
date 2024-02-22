@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prashanthreddy73.github.io/week3/static/css/main.e6c13ad2.css",
+    "main.js": "/prashanthreddy73.github.io/week3/static/js/main.6329ea49.js",
+    "static/js/453.a9addeb4.chunk.js": "/prashanthreddy73.github.io/week3/static/js/453.a9addeb4.chunk.js",
+    "index.html": "/prashanthreddy73.github.io/week3/index.html",
+    "main.e6c13ad2.css.map": "/prashanthreddy73.github.io/week3/static/css/main.e6c13ad2.css.map",
+    "main.6329ea49.js.map": "/prashanthreddy73.github.io/week3/static/js/main.6329ea49.js.map",
+    "453.a9addeb4.chunk.js.map": "/prashanthreddy73.github.io/week3/static/js/453.a9addeb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6329ea49.js"
+  ]
+}
